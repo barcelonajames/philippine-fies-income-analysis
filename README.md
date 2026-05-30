@@ -56,7 +56,7 @@ If yes, social programs and policymakers can identify underserved households mor
 
 | Rank | Model | Accuracy |
 |---|---|---|
-| 🥇 | Random Forest Classifier | Best |
+| 1 | Random Forest Classifier | Best |
 | 2 | Gradient Boosting Classifier | — |
 | 3 | Logistic Regression | — |
 | 4 | Decision Tree Classifier | — |
@@ -67,7 +67,7 @@ If yes, social programs and policymakers can identify underserved households mor
 
 | Rank | Model | R² | MAE | RMSE |
 |---|---|---|---|---|
-| 🥇 | Gradient Boosting Regressor | 0.8791 | ₱3,928.99 | ₱7,799.08 |
+| 1 | Gradient Boosting Regressor | 0.8791 | ₱3,928.99 | ₱7,799.08 |
 | 2 | Random Forest Regressor | — | — | — |
 | 3 | Ridge Regression | — | — | — |
 | 4 | Linear Regression | — | — | — |
