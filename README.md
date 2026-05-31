@@ -1,7 +1,7 @@
 # Philippine Household Income Analysis
 ### End-to-End Machine Learning Pipeline
 ### Filipino Family Income and Expenditure Survey (FIES) — PSA, 2021
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_4VB0mZc1DtJjPdp2jwPs1dHfjEZSPx-)
 ---
 
 ## The Question
